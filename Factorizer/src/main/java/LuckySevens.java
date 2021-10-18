@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class LuckySevens {
 
-    public static void main(String[] args) {
+    public void playLuckySevens() {
 
         Random rand = new Random();
         int die1;

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Factorizer {
 
-    public static void main(String[] args) {
+    public void factorize() {
 
         int numFactors = 2;
         int perfectNumber = 1;

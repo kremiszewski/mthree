@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class InterestCalculator {
 
-    public static void main(String[] args) {
+    public void calculateInterest() {
 
         int years = 0;
         float interestRate = 0;
